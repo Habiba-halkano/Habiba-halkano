@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full-stack web development, flutter mobile application development**
 
-- 💬 Ask me about **PHP,Javascript**
+- 💬 Ask me about **PHP,Javascript,Python**
 
 - 📫 How to reach me **halkanohabiba8@gmail.com**
 
